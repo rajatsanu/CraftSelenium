@@ -1,0 +1,11 @@
+Starting ChromeDriver 2.26.436362 (5476ec6bf7ccbada1734a0cdec7d570bb042aa30) on port 20490
+Only local connections are allowed.
+Aug 13, 2017 3:31:53 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Exception in thread "pool-1-thread-1" java.lang.ClassCastException: java.lang.AssertionError cannot be cast to java.lang.Exception
+	at supportlibraries.DriverScript.driveTestExecution(DriverScript.java:102)
+	at allocator.ParallelRunner.invokeTestScript(ParallelRunner.java:59)
+	at allocator.ParallelRunner.run(ParallelRunner.java:40)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)

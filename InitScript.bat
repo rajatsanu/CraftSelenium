@@ -1,0 +1,1 @@
+java -cp ".;.\supportlibraries\Framework_Core.jar;.\supportlibraries\Framework_DataTable.jar;.\supportlibraries\Framework_Reporting.jar;.\supportlibraries\Framework_Utilities.jar;D:\Vijay\Javalibs\poi-3.8\poi-3.8-20120326.jar;D:\Vijay\Javalibs\Selenium\Selenium Server\selenium-server-standalone-2.31.0.jar" allocator.Allocator

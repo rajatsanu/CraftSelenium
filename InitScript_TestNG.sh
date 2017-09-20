@@ -1,0 +1,2 @@
+#! /bin/bash
+java -cp ".;.\supportlibraries\Framework_Core.jar;.\supportlibraries\Framework_DataTable.jar;.\supportlibraries\Framework_Reporting.jar;.\supportlibraries\Framework_Utilities.jar;path\to\poi\poi-3.8-20120326.jar;path\to\selenium\server\selenium-server-standalone-2.31.0.jar" org.testng.TestNG testng_regression.xml

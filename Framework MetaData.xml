@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<FrameworkMetaData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Framework>CRAFT</Framework>
+	<Tool>Selenium</Tool>
+	<Language>Java</Language>
+	<Implementation>Default</Implementation>
+	<Repository>FileSystem</Repository>
+	<CurrentVersion>
+		<Number>8</Number>
+		<Date>10/05/2013</Date>
+	</CurrentVersion>
+	<BaseVersion>
+		<Number>1</Number>
+		<Date>09/04/2013</Date>
+	</BaseVersion>
+</FrameworkMetaData>
